@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da96dd28-93e2-4c46-a53f-33f6fe93e646" name="Changes" comment="creation du projet">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP_308_HOSTOAPP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consultation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientCRUD.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RendezVous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserCRUD.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utilisateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inscription.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStore.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +28,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "220",
-    "last_opened_file_path": "C:/Users/estele/IdeaProjects/TP_308_HOSTOAPP/mysql-connector-j-8.2.0.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;220&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/estele/IdeaProjects/TP_308_HOSTOAPP/mysql-connector-j-8.2.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\estele\IdeaProjects\TP_308_HOSTOAPP" />
