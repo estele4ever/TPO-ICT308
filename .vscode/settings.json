@@ -1,6 +1,14 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "TPO-ICT308/lib/mysql-connector-java-8.0.21.jar"
+        "TPO-ICT308/lib/mysql-connector-java-8.0.21.jar",
+        "TPO-ICT308/lib/jcalendar-1.4.jar",
+        "TPO-ICT308/lib/lib/jcalendar-1.4.jar",
+        "TPO-ICT308/lib/lib/jgoodies-common-1.2.0.jar",
+        "TPO-ICT308/lib/lib/jgoodies-looks-2.4.1.jar",
+        "TPO-ICT308/lib/lib/junit-4.6.jar",
+        "TPO-ICT308/lib/jgoodies-common-1.2.0.jar",
+        "TPO-ICT308/lib/jgoodies-looks-2.4.1.jar",
+        "TPO-ICT308/lib/junit-4.6.jar"
     ]
 }
